@@ -559,7 +559,7 @@ printf 'pass\n'
 
 printf 'Running %s binary file test...' "$d"
 
-bin="/bin/sh"
+bin="/sw/bash/bin/bash"
 
 "$exe" "$@" "$bin" > /dev/null 2> "$out2"
 err="$?"
