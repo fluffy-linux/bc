@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/sw/bash/bin/bash
 #
 # Written by Rich Felker, originally as part of musl libc.
 # Multi-licensed under MIT, 0BSD, and CC0.
