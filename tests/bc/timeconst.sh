@@ -1,4 +1,4 @@
-#! /bin/sh
+#!/sw/bash/bin/bash
 #
 # Copyright (c) 2018-2024 Gavin D. Howard and contributors.
 #
